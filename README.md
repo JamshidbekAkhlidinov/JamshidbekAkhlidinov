@@ -14,13 +14,3 @@
         src="https://github-readme-streak-stats.herokuapp.com?user=axlidinovj&theme=tokyonight"
     />
 </div>
-
-<style>
-
-    div{
-        display:flex;
-        jus
-    }
-
-    </style>
-
