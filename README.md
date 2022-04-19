@@ -2,6 +2,9 @@
 
 <!-- **_Men Jamshidbek Axlidinov. Farg'ona viloyati Oltiariq tumanidan 2003 - yil 29 iyunda tug'ulganman._** -->
 
+![Herox's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=axlidinovj&custom_title=Jamshidbek+Axlidinov&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
+
 
 <div align="center">
     <img
@@ -12,4 +15,6 @@
         width="100%"
         src="https://github-readme-streak-stats.herokuapp.com?user=axlidinovj&theme=tokyonight"
     />
+
+    
 </div>
