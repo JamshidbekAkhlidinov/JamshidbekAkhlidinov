@@ -1,3 +1,3 @@
 # AxlidinovJ
  
-JAmshidbek Axlidnov
+Jamshidbek Axlidnov
