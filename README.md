@@ -6,15 +6,15 @@
 <div align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=JamshidbekAxlidinov&custom_title=Jamshidbek+Axlidinov&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea"
+        src="https://activity-graph.herokuapp.com/graph?username=JamshidbekAkhlidinov&custom_title=Jamshidbek+Axlidinov&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea"
     />
     <img
         width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=JamshidbekAxlidinov&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=JamshidbekAkhlidinov&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
         width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=JamshidbekAxlidinov&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=JamshidbekAkhlidinov&theme=tokyonight"
     />
 
     
@@ -36,18 +36,18 @@
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/ValisherBotirov -->
+<!-- Badges template - https://github.com/JamshidbekAkhlidinov -->
 <p align="center">
     <a href="https://github.com/AxlidinivJ">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/jamshidbek-axlidnov-9aa382227/">
+    <a href="https://www.linkedin.com/in/jamshidbek-akhlidinov-26510a239/">
         <img alt="Linkedin"
              src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <!-- <a href="https://stackoverflow.com/users/18722292/valisher-botirov">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> -->
-    <a href="https://www.facebook.com/jamshidbek.axlidinov.3/">
+    <a href="https://www.facebook.com/JamshidbekAkhlidinov/">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
