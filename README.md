@@ -38,6 +38,9 @@
 
 <!-- Badges template - https://github.com/JamshidbekAkhlidinov -->
 <p align="center">
+ <a href="https://www.instagram.com/jamshidbekakhlidinov/">
+        <img alt="instagram"
+             src="https://img.shields.io/badge/instagram-1233?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/JamshidbekAkhlidinov">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -108,20 +111,6 @@
              src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=mysql&logoColor=black"/></a>
 </p>
 
-### ☁ Cloud hosting
-
-<p>
-    <a href="#">
-        <img alt="AWS"
-             src="https://img.shields.io/badge/redmi_cloud-0080FF?style=for-the-badge&logo=redmi&logoColor=white"></a>
-    <a href="#">
-        <img alt="Google Cloud"
-             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-    <a href="#"><img alt="" src=""></a>
-</p>
 
 ### 💻 Software and tools
 
