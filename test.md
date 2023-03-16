@@ -4,3 +4,4 @@ qalesan ishlar yaxshimin
 Meni ismim Jamshidbek
 alo kimdur bormi.
 Sen kimsan 
+asdf
