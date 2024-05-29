@@ -6,3 +6,7 @@
 <figure><embed src="https://wakatime.com/share/@jamshidbekakhlidinov/97d7468b-f893-4c34-b43b-07a93fa85586.svg"></embed></figure>
 
 <figure><embed src="https://wakatime.com/share/@jamshidbekakhlidinov/305de534-1b0e-4af3-a3e9-3c41d9317449.svg"></embed></figure>
+
+<embed src="https://github-profile-trophy.vercel.app/?username=jamshidbekakhlidinov&column=7&rank=SSS,SS,S,AAA,AA,A,B,C"></embed>
+
+
