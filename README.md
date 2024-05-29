@@ -7,6 +7,21 @@
 
 <figure><embed src="https://wakatime.com/share/@jamshidbekakhlidinov/305de534-1b0e-4af3-a3e9-3c41d9317449.svg"></embed></figure>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jamshidbekakhlidinov&column=7&rank=SSS,SS,S,AAA,AA,A,B,C">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jamshidbekakhlidinov&show_icons=true&theme=radical">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshidbekakhlidinov&layout=compact">
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <img src="https://github-profile-trophy.vercel.app/?username=jamshidbekakhlidinov&column=7&rank=SSS,SS,S,AAA,AA,A,B,C">
+    </td>
+  </tr>
+</table>
+
 
 
