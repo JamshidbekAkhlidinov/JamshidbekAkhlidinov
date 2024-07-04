@@ -24,7 +24,7 @@
 </table>
 
 
-<figure><embed src="https://wakatime.com/share/@jamshidbekakhlidinov/f395b733-917f-4795-ac53-1ab1c1001512.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@jamshidbekakhlidinov/f395b733-917f-4795-ac53-1ab1c1001512.svg"></embed>
 
 
-
+<embed src="https://wakatime.com/share/@jamshidbekakhlidinov/638ade83-6d2d-418f-89ac-d5ff2b8aef9d.svg"></embed>
