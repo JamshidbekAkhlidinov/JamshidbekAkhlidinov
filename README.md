@@ -7,24 +7,10 @@
 
 <figure><embed src="https://wakatime.com/share/@jamshidbekakhlidinov/305de534-1b0e-4af3-a3e9-3c41d9317449.svg"></embed></figure>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jamshidbekakhlidinov&show_icons=true&theme=radical">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshidbekakhlidinov&layout=compact">
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2>
-      <img src="https://github-profile-trophy.vercel.app/?username=jamshidbekakhlidinov&column=7&rank=SSS,SS,S,AAA,AA,A,B,C">
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=jamshidbekakhlidinov&column=7&rank=SSS,SS,S,AAA,AA,A,B,C">
 
 
-<embed src="https://wakatime.com/share/@jamshidbekakhlidinov/f395b733-917f-4795-ac53-1ab1c1001512.svg"></embed>
-
-
-<embed src="https://wakatime.com/share/@jamshidbekakhlidinov/638ade83-6d2d-418f-89ac-d5ff2b8aef9d.svg"></embed>
+<div>
+<img src="https://wakatime.com/share/@jamshidbekakhlidinov/f395b733-917f-4795-ac53-1ab1c1001512.svg" width="40%">
+<img src="https://wakatime.com/share/@jamshidbekakhlidinov/638ade83-6d2d-418f-89ac-d5ff2b8aef9d.svg"  width="40%">
+</div>
