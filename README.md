@@ -4,7 +4,7 @@ Here’s a little about me:
 
 👋 Hi, I’m **Jamshidbek Akhlidinov**  
 🎓 I’m a 4th-year Software Engineering student at TUIT  
-💻 I work mainly with **Laravel**, **Livewire**, **Yii2**, and frontend tools  
+💻 I work mainly with **Yii2**,**Laravel** and frontend tools  
 🌱 Currently learning **DevOps** and improving my **English skills**  
 📦 I’ve developed a PHP package for Telegram bots: [`ustadev/telegram`](https://github.com/JamshidbekAkhlidinov/telegram)  
 📝 I enjoy blogging and sharing knowledge on [USTADEV.UZ](https://ustadev.uz)  
