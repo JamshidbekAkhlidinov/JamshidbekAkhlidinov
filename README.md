@@ -15,8 +15,6 @@ Thanks for visiting my profile! 🚀
 
 <a href="https://wakatime.com/@d3110f77-d926-4238-8cdc-a8991b6685c0"><img src="https://wakatime.com/badge/user/d3110f77-d926-4238-8cdc-a8991b6685c0.svg"></a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jamshidbekakhlidinov&column=7&rank=SSS,SS,S,AAA,AA,A,B,C">
-
 
 <div>
 
